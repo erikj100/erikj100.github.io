@@ -1,0 +1,51 @@
+body{
+	background-color: lightblue;
+	color:6600cc;
+	font:15px arial;
+
+}
+h1{
+	font-size:30px;
+	font-style:arial;
+	color:blue;
+	text-decoration: underline;
+	text-align:center;
+	border:2px solid darkblue;
+	margin-bottom:50px;
+  padding:20px 40px 30px 40px;
+}
+p{color:blue;
+
+}
+h2{font-size:30px;
+	font-style:arial;
+	color:blue;
+	text-decoration: underline;
+	text-align:center;
+	border:2px solid darkblue;
+	margin-bottom:50px;
+  padding:20px 40px 30px 40px;
+
+}
+h3{font-size:30px;
+	font-style:arial;
+	color:blue;
+	text-decoration: underline;
+	text-align:center;
+	border:2px solid darkblue;
+	margin-bottom:50px;
+  padding:20px 40px 30px 40px;
+
+}
+
+h4{font-size:30px;
+	font-style:arial;
+	color:blue;
+	text-decoration: underline;
+	text-align:center;
+	border:2px solid darkblue;
+	margin-bottom:50px;
+  padding:20px 40px 30px 40px;
+
+}
+
